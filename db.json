@@ -1,0 +1,43 @@
+{
+    "iemHorarios":[
+        {
+            "id":1,
+            "time1":"Astralis",
+            "time2":"Imperial",
+            "data":"09/07/2022",
+            "hora":"14:00",
+            "tipo":"MD3",
+            "rodada":"Quartas"
+        },
+
+        {
+            "id":2,
+            "time1":"Vitality",
+            "time2":"Heroic",
+            "data":"09/07/2022",
+            "hora":"14:00",
+            "tipo":"MD3",
+            "rodada":"Quartas"
+        },
+
+        {
+            "id":3,
+            "time1":"BIG",
+            "time2":"Spirit",
+            "data":"09/07/2022",
+            "hora":"18:00",
+            "tipo":"MD3",
+            "rodada":"Quartas"
+        },
+
+        {
+            "id":4,
+            "time1":"Mouz",
+            "time2":"Outsiders",
+            "data":"09/07/2022",
+            "hora":"18:00",
+            "tipo":"MD3",
+            "rodada":"Quartas"
+        }
+    ]
+}
